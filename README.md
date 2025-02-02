@@ -21,7 +21,7 @@
 3. Запустите игру, выполнив команду:
 
    ```bash
-   weather.py
+   python weather.py
 
 ---
 
